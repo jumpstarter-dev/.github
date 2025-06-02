@@ -15,5 +15,14 @@ Jumpstarter makes embedded system testing scalable, programmable, and CI/CD-frie
 - 🧪 Integrate with PyTest and other Python testing tools
 - 📦 Provision virtual hardware devices (e.g. QEMU) on demand
 
+## 🔗 Links
 
-Website: https://jumpstarter.dev
+**Website:** [jumpstarter.dev](https://jumpstarter.dev)
+
+**Primary Project:** [github.com/jumpstarter-dev/jumpstarter](https://github.com/jumpstarter-dev/jumpstarter)
+
+**Kubernetes Controller:** [github.com/jumpstarter-dev/jumpstarter-controller](https://github.com/jumpstarter-dev/jumpstarter-controller)
+
+**gRPC Protocol:** [github.com/jumpstarter-dev/jumpstarter-protocol](https://github.com/jumpstarter-dev/jumpstarter-protocol)
+
+**E2E Tests:** [github.com/jumpstarter-dev/jumpstarter-e2e](https://github.com/jumpstarter-dev/jumpstarter-e2e)
