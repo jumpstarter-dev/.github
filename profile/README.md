@@ -12,17 +12,17 @@ Jumpstarter makes embedded system testing scalable, programmable, and CI/CD-frie
 - 🔌 Remotely control test interfaces like UART, CAN, SPI, GPIO, power, and USB
 - 🧰 Use "exporters" to expose hardware interfaces to your CI environment
 - 🔐 Securely lease and forward DUT interfaces to authorized clients via gRPC
-- 🧪 Integrate with PyTest and other Python testing tools
+- 🐍 Integrate with PyTest and other Python testing tools
 - 📦 Provision virtual hardware devices (e.g. QEMU) on demand
 
 ## 🔗 Links
 
-**Website:** [jumpstarter.dev](https://jumpstarter.dev)
+**🌎 Website:** [jumpstarter.dev](https://jumpstarter.dev)
 
-**Primary Project:** [github.com/jumpstarter-dev/jumpstarter](https://github.com/jumpstarter-dev/jumpstarter)
+**🐍 Primary Project:** [github.com/jumpstarter-dev/jumpstarter](https://github.com/jumpstarter-dev/jumpstarter)
 
-**Kubernetes Controller:** [github.com/jumpstarter-dev/jumpstarter-controller](https://github.com/jumpstarter-dev/jumpstarter-controller)
+**☸️ Kubernetes Controller:** [github.com/jumpstarter-dev/jumpstarter-controller](https://github.com/jumpstarter-dev/jumpstarter-controller)
 
-**gRPC Protocol:** [github.com/jumpstarter-dev/jumpstarter-protocol](https://github.com/jumpstarter-dev/jumpstarter-protocol)
+**↔️ gRPC Protocol:** [github.com/jumpstarter-dev/jumpstarter-protocol](https://github.com/jumpstarter-dev/jumpstarter-protocol)
 
-**E2E Tests:** [github.com/jumpstarter-dev/jumpstarter-e2e](https://github.com/jumpstarter-dev/jumpstarter-e2e)
+**🧪 E2E Tests:** [github.com/jumpstarter-dev/jumpstarter-e2e](https://github.com/jumpstarter-dev/jumpstarter-e2e)
