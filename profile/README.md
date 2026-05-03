@@ -23,4 +23,4 @@ Jumpstarter makes embedded system testing scalable, programmable, and CI/CD-frie
 
 **☸️ Kubernetes Controller:** [jumpstarter-dev/jumpstarter/controller](https://github.com/jumpstarter-dev/jumpstarter/tree/main/controller)
 
-**↔️ gRPC Protocol:** [jumpstarter-dev/jumpstarter/protocol](https://github.com/jumpstarter-dev/jumpstarter/tree/main/protocol))
+**↔️ gRPC Protocol:** [jumpstarter-dev/jumpstarter/protocol](https://github.com/jumpstarter-dev/jumpstarter/tree/main/protocol)
